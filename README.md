@@ -15,6 +15,7 @@ Webpage layout: Jonathan Sanchez and Angeles Macrino.
  Girl with red hat.
  Skindinavia cosmetics.  
  Tetiana Shyshkina.  
+ Jonathan Borba.
  
  Svg icons from www.flaticon.es
  

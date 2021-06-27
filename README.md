@@ -2,7 +2,7 @@
 Academic project of a pharmacy website.   
   
 UI/UX: Angeles Macrino. 
-  Made with Adobe XD
+  Made with Adobe XD  
 Webpage layout: Jonathan Sanchez and Angeles Macrino.  
   
   
